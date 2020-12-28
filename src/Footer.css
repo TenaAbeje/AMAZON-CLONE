@@ -1,0 +1,15 @@
+.footer {
+  height: 60px;
+
+  background-color: #131921;
+  position: sticky;
+
+  z-index: -100;
+}
+.footer__logo {
+  width: 100px;
+  margin-left: 50%;
+  object-fit: contain;
+  justify-content: center;
+  margin-top: 15px;
+}
